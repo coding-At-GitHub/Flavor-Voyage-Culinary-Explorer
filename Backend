@@ -4,7 +4,7 @@ const intro = "Experienced Fin-Tech software developer proficient in ReactJS, An
 const socialLinkedin = "linkedin.com/in/rajesh-choudhary-89a561285";
 
 const about_me = "🌱 I’m Software Developer Experience in ReactJS, Angular, and NodeJS with a solid foundation in Data Structures and Algorithms (DSA) using Java. Skilled in crafting clean, maintainable code for both frontend and backend. Collaborative team player comfortable in diverse work environments, both remote and in-office.";
-const ok ="ok";
+const ok1 ="ok";
 const ok2 ="ok";
 
 

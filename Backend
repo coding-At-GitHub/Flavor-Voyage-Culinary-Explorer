@@ -5,7 +5,7 @@ const socialLinkedin = "linkedin.com/in/rajesh-choudhary-89a561285";
 
 const about_me = "🌱 I’m Software Developer Experience in ReactJS, Angular, and NodeJS with a solid foundation in Data Structures and Algorithms (DSA) using Java. Skilled in crafting clean, maintainable code for both frontend and backend. Collaborative team player comfortable in diverse work environments, both remote and in-office.";
 const ok1 ="React";
-const ok2 ="redux";
+const ok2 ="redux toolkit";
 const ok5 ="javascript";
 const ok3 ="ok";
 

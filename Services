@@ -6,4 +6,6 @@ backend
 typescript 
 ";
 
-const projects="";
+const projects="
+react 
+";

@@ -13,6 +13,7 @@ react
 next 
 
 const a = 10;
+const abcde="";
 const b = "Rajesh";
 const c = "
 javascript

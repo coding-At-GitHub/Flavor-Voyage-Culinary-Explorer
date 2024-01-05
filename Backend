@@ -1,3 +1,10 @@
+const practice = "
+javascript backend 
+";
+
+
+
+
 const name = "Rajesh Choudhary";
 const email = "rajesh7788991100@gmail.com";
 const intro = "2+ Experienced Fin-Tech software developer proficient in ReactJS, Angular, NodeJS, Java for DSA, adept at crafting clean, maintainable code for frontend and backend, thriving in diverse remote and in-office team environments.";
